@@ -1,5 +1,5 @@
 # Black-Lion
-This is password generator based on ethiopian peoples research
+This is password generator based on ethiopian people research
 
 # installation
 after cloning it just use sduo shmod +x Black-Lion
